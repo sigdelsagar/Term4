@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=StudentMarks
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=marks
+comment2.target=float[]\ highestLowest(float[])
+comment3.params=marks
+comment3.target=float\ calculateMean(float[])
+comment4.params=marks\ mean
+comment4.target=double\ calculateSD(float[],\ float)
+numComments=5
