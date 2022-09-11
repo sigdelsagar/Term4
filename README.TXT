@@ -1,6 +1,10 @@
 ------------------------------------------------------------------------
 Assignment 1 of PROG5001-2022-T4 Fundamentals of Programming
 
+
+Instructions: videosrc.txt contains a link to demonstration video, similary pseudocode and alogrithm is also present, make sure BlueJ or Java is installed in your machine.
+
+
 Task Description:
 
 Your task is to develop a simple Java program to manage student marks. Your work must demonstrate your learning over the first two modules of this unit. The program will have the following functional requirements:
@@ -17,5 +21,4 @@ PROJECT TITLE: Assignment 1
 PURPOSE OF PROJECT: Understanding what algorithm, pseudocode, fundament concepts of java programming as well as basic blocks of programming languages.
 VERSION or DATE: 05/09/2022
 HOW TO START THIS PROJECT: Compile and Run a file called StudentMarks.java
-AUTHORS: Sagar Sigdel
-USER INSTRUCTIONS: Make sure you have installed BlueJ or Java in general.
+AUTHORS: Sagar Sigdel. 
